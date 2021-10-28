@@ -1,0 +1,10 @@
+github.com/c0mm4nd/go-jsonrpc2 v0.0.0-20210730135302-66cb45a7fd88 h1:FKMI5llQYoenX/JtfKayZwDoE64KTsH6SGrx48Fq0ZY=
+github.com/c0mm4nd/go-jsonrpc2 v0.0.0-20210730135302-66cb45a7fd88/go.mod h1:1uXjZQveTnArkEcE4uVJBEb8MtQwH2l1SSkckTI9R18=
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/hashicorp/errwrap v1.0.0 h1:hLrqtEDnRye3+sgx6z4qVLNuviH3MR5aQ0ykNJa/UYA=
+github.com/hashicorp/errwrap v1.0.0/go.mod h1:YH+1FKiLXxHSkmPseP+kNlulaMuP3n2brvKWEqk/Jc4=
+github.com/hashicorp/go-multierror v1.1.1 h1:H5DkEtf6CXdFp0N0Em5UCwQpXMWke8IA0+lD48awMYo=
+github.com/hashicorp/go-multierror v1.1.1/go.mod h1:iw975J/qwKPdAO1clOe2L8331t/9/fmwbPZ6JB6eMoM=
+github.com/ohler55/ojg v1.12.4 h1:x/jOewtYkcCCLoB4ex5PJH+BZy/ddjfOkFsBpdLy7e0=
+github.com/ohler55/ojg v1.12.4/go.mod h1:DipxaGtQkxd8U67rc3s5ugRGmaHQW7YfJlN7xAaXu5U=
