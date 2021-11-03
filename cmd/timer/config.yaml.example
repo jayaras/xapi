@@ -1,0 +1,13 @@
+url: "wss://192.168.5.90/ws"
+user: int
+password: goes_here
+insecure: true
+displayTime: 2s
+timeLine:
+  - title: "prezo timer"
+    message: "first"
+    pause: 5s
+  - title: "prezo timer"
+    message: "second"
+    pause: 5s 
+

@@ -7,4 +7,5 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/ohler55/ojg v1.12.4
+	gopkg.in/yaml.v2 v2.4.0
 )
